@@ -1,0 +1,11 @@
+[{
+  "include": [
+    "react",
+    "react/jsx-runtime",
+    "react/jsx-dev-runtime",
+    "react-dom",
+    "react-dom/client"
+  ],
+  "output": "react-superbundle.package.js"
+}]
+  
