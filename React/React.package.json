@@ -1,0 +1,12 @@
+[{
+  "include": [
+    "react",
+    "react/jsx-runtime",
+    "react/jsx-dev-runtime",
+    "react-dom",
+    "react-dom/client",
+    "scheduler",
+    "use-sync-external-store/with-selector"
+  ],
+  "output": "react-superbundle.package.js"
+}]
