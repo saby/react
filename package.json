@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "init:17": "node init.js --version=17 --ignore-scripts --skip-electron-binary",
+      "init:19": "node init.js --version=19 --ignore-scripts",
+      "build:17": "node build-react/v17/build-all-amd.js",
+      "build:19": "node build-react/v19/build-all-amd.js"
+    }
+  }
+  
