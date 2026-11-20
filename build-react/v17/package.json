@@ -1,0 +1,7 @@
+{
+  "name": "build-react-v17-pipeline",
+  "private": true,
+  "scripts": {
+    "build-all-amd": "node build-all-amd.js"
+  }
+}
